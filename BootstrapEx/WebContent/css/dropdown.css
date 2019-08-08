@@ -1,0 +1,16 @@
+* {margin: 0; padding: 0; }
+
+li {list-style: none; }          
+
+.topMenu {width: 70%; margin-bottom: 20px; text-align: center; 
+        height: 40px; margin:auto; white-space:nowrap; }
+.menu01 {margin-top:50px; margin-bottom: 50px;  margin-left: 200px;}
+.menu01>li {float: left; width: 150px; line-height: 40px; }
+.menu01 span {font-size: 30px;} 
+    
+.dept01 {display: none; padding: 20px 0;}
+         
+#nop {float: none; font-size: 25px;}
+
+.access { position: absolute; top: 50px; right: 80px; font-size: 25px;
+        font-family: 'Nanum Pen Script', cursive; }
